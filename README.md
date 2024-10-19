@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juanakin-skywalker
+- 👋 Hi, I’m Juan Antonio Alcaraz.
 - 👀 I’m interested in python, databases.
-- 🌱 I’m currently learning python, databases, mongo, data processing
+- 🌱 I’m currently learning python, databases, mongo, data processing, bid data,....
 
 
 <!---
